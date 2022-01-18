@@ -1,3 +1,3 @@
 # SPACE SHIFT INC. GITHUB
-![space shift image](./../figure/spcsft.png)
+![space shift image](../figure/spcsft.png)
 
